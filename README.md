@@ -39,6 +39,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0041-first-missing-positive](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,9 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
