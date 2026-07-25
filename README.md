@@ -84,6 +84,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0053-maximum-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 ## Recursion
 |  |
 | ------- |
