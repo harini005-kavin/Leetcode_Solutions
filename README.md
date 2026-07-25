@@ -36,6 +36,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 ## Matrix
 |  |
 | ------- |
