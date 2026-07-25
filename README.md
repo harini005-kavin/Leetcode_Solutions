@@ -47,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0055-jump-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,12 +61,14 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
