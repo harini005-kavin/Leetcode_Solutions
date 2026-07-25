@@ -127,6 +127,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0058-length-of-last-word](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0075-sort-colors](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
