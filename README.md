@@ -26,3 +26,15 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 - Maintain consistent coding practice
 
 ⭐ Feel free to explore the solutions and provide feedback!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
