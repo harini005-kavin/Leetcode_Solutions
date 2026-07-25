@@ -58,6 +58,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0136-single-number) |
 ## Union-Find
 |  |
 | ------- |
