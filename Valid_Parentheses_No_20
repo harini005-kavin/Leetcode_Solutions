@@ -1,0 +1,21 @@
+class Solution {
+    public boolean isValid(String s) {
+       if(s.contains("()"))
+       {
+          return " ";     
+       }
+       else if(s.contains("[]"))
+       {
+        return " ";
+       }
+       else if(s.contains("{}"))
+       {
+        return " ";
+       }
+       else
+       {
+        return false;
+       }
+    return true;      
+    }
+}
