@@ -95,6 +95,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 ## Recursion
 |  |
 | ------- |
