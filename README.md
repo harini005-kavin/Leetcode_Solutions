@@ -41,6 +41,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0046-permutations](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -74,8 +76,13 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
