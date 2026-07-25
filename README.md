@@ -50,6 +50,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0073-set-matrix-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0046-permutations](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
