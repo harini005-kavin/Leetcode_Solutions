@@ -40,6 +40,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +74,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
