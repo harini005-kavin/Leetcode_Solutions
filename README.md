@@ -44,6 +44,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,10 +68,12 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
