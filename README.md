@@ -54,6 +54,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0070-climbing-stairs](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
