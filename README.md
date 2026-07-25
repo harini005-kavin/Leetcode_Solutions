@@ -81,8 +81,13 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
