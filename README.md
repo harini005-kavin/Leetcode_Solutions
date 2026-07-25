@@ -43,6 +43,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +98,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
