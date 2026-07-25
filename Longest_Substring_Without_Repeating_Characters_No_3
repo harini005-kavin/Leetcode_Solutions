@@ -1,0 +1,24 @@
+import java.util.HashSet;
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        int n = s.length();
+        int maxLen = 0;
+        int start = 0;
+        HashSet<Character> set = new HashSet<>();
+        for (int end = 0; end < n; end++) {
+            char c = s.charAt(end);
+            while (set.contains(c)) {
+                set.remove(s.charAt(start));
+                start++;
+            }
+            set.add(c);
+            maxLen = Math.max(maxLen, end - start + 1);
+        }
+        return maxLen;
+    }
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        String s = "abcabcbb";
+        System.out.println("Length of longest substring: " + sol.lengthOfLongestSubstring(s)); // Output: 3
+    }
+}
