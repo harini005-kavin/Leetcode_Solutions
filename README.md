@@ -37,6 +37,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0035-search-insert-position](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,12 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
