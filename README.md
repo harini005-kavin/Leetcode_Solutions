@@ -69,6 +69,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +139,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0088-merge-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
