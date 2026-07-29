@@ -167,6 +167,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -250,6 +252,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
