@@ -63,6 +63,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0152-maximum-product-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0056-merge-intervals](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 ## Math
 |  |
 | ------- |
@@ -174,4 +176,12 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
