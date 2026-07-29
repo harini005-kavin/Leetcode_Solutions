@@ -121,6 +121,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +163,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0050-powx-n](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 ## Divide and Conquer
 |  |
 | ------- |
