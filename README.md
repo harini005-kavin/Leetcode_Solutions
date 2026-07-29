@@ -184,6 +184,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -203,6 +204,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0050-powx-n](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
