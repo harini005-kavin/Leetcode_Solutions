@@ -65,6 +65,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0049-group-anagrams](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0075-sort-colors](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +156,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -187,4 +191,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
