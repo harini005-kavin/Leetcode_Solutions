@@ -77,6 +77,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0238-product-of-array-except-self](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0229-majority-element-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
 ## Math
 |  |
 | ------- |
@@ -284,4 +286,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
