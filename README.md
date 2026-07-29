@@ -73,6 +73,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0219-contains-duplicate-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0205-isomorphic-strings](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +227,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
 | ------- |
