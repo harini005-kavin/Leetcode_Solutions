@@ -66,6 +66,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0164-maximum-gap](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0070-climbing-stairs](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -176,6 +178,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0125-valid-palindrome](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
