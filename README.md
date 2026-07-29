@@ -62,6 +62,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0137-single-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0074-search-a-2d-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
