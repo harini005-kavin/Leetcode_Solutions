@@ -139,6 +139,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0066-plus-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0115-distinct-subsequences](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
