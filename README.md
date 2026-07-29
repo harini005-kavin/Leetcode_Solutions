@@ -92,6 +92,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,4 +291,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
