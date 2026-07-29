@@ -72,6 +72,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0217-contains-duplicate](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0228-summary-ranges](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 ## Binary Search
 |  |
 | ------- |
