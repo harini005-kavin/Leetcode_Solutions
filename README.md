@@ -140,6 +140,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0069-sqrtx](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
