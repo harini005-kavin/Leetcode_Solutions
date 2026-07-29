@@ -161,6 +161,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -176,6 +177,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0190-reverse-bits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
