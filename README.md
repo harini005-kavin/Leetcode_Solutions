@@ -111,6 +111,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0242-valid-anagram](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0290-word-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +195,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0290-word-pattern) |
 ## Recursion
 |  |
 | ------- |
