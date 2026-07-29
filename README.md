@@ -88,6 +88,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0073-set-matrix-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0151-reverse-words-in-a-string](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
