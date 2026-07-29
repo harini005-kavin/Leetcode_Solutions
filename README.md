@@ -67,6 +67,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0172-factorial-trailing-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -213,4 +215,12 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
