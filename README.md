@@ -90,6 +90,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0128-longest-consecutive-sequence](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +158,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0125-valid-palindrome](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 ## Recursion
 |  |
 | ------- |
