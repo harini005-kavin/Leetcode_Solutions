@@ -104,6 +104,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0219-contains-duplicate-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +172,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -271,4 +274,8 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
