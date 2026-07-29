@@ -134,6 +134,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0152-maximum-product-subarray](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +245,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0338-counting-bits) |
 ## Union-Find
 |  |
 | ------- |
