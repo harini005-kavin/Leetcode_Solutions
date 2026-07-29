@@ -169,6 +169,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0231-power-of-two](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
