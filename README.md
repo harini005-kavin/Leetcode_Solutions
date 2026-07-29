@@ -78,6 +78,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0260-single-number-iii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
