@@ -189,6 +189,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0292-nim-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
