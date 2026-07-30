@@ -188,6 +188,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0326-power-of-three) |
+| [0504-base-7](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
@@ -202,6 +203,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0242-valid-anagram](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
