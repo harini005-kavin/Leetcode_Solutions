@@ -80,6 +80,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
+| [0704-binary-search](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0209-minimum-size-subarray-sum](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
