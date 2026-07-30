@@ -79,6 +79,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0264-ugly-number-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +201,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0205-isomorphic-strings](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 ## Recursion
 |  |
 | ------- |
