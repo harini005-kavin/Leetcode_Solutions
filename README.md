@@ -81,6 +81,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0283-move-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [3689-maximum-total-subarray-value-i](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0055-jump-game](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0134-gas-station) |
+| [3689-maximum-total-subarray-value-i](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
 |  |
 | ------- |
