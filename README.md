@@ -197,6 +197,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0504-base-7](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [3099-harshad-number](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
