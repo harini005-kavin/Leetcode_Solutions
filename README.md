@@ -81,6 +81,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0283-move-zeroes](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [3379-transformed-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
@@ -232,6 +233,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [3379-transformed-array](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Memoization
 |  |
