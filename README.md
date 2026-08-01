@@ -211,6 +211,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | [0290-word-pattern](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0504-base-7) |
+| [3612-process-string-with-special-operations-i](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -231,6 +232,7 @@ This repository contains my Java solutions to LeetCode problems. I regularly sol
 | ------- |
 | [0054-spiral-matrix](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/harini005-kavin/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Memoization
 |  |
 | ------- |
